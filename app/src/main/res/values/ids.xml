@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragment_container" type="id" />
+    <item name="nav_home" type="id" />
+    <item name="nav_data" type="id" />
+    <item name="nav_settings" type="id" />
+    <item name="bottom_navigation" type="id" />
+    <item name="receiptImage" type="id" />
+    <item name="deleteButton" type="id" />
+</resources>
